@@ -1,4 +1,5 @@
 '''consol
+
 root@DESKTOP-JM4UFFA:~/SW-Platform/apps/big_drawing/draw_chart# bash this_run.sh
 
 1.CSV파일이 저장된 디렉토리 경로를 입력해 주세요. ( EX. CSV ) :
@@ -52,4 +53,5 @@ Progress |███████████████████████�
 ----------------------------------------------------------------------------
 
 프래그램이 종료 되었습니다...
-''''
+
+'''
